@@ -16,6 +16,7 @@ Results-driven Data Engineer with expertise in building scalable data pipelines 
   https://learn.microsoft.com/en-us/users/arielsubia-8069/credentials/8fcbbe50f55a1231
 - **Databricks Certified Data Engineer Associate**
   https://credentials.databricks.com/39056564-0da7-4e86-9e3a-589d9f533749#acc.wdfyTOUJ
+  
 - **Credly Profile**
   https://www.credly.com/users/ariel-subia.c56ee195
 
@@ -24,10 +25,3 @@ Results-driven Data Engineer with expertise in building scalable data pipelines 
 - **Cloud Platforms**: Azure, GCP, AWS
 - **Tools**: Apache Spark, Airflow, Fabric, PowerBI
 - **Databases**: Azure SQL, SQL Server
-
-### 📊 Featured Projects
-## Azure AI Pet Recognition
-
-This project utilizes Azure AI to recognize and categorize different types of pets in images. It demonstrates the power of cloud computing and AI to enhance pet adoption services.
-
-[GitHub Repository](https://github.com/arielsubia/pets-recognition-azure-ai)
