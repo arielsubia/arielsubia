@@ -16,6 +16,8 @@ Results-driven Data Engineer with expertise in building scalable data pipelines 
   https://learn.microsoft.com/en-us/users/arielsubia-8069/credentials/8fcbbe50f55a1231
 - **Databricks Certified Data Engineer Associate**
   https://credentials.databricks.com/39056564-0da7-4e86-9e3a-589d9f533749#acc.wdfyTOUJ
+- **Credly Profile**
+  https://www.credly.com/users/ariel-subia.c56ee195
 
 ### 🛠️ Tech Stack
 - **Languages**: Python, SQL, PySpark
