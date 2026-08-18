@@ -1,4 +1,5 @@
-# Hi, I'm Ariel Subia ### aka Phil_dev 🐱
+# Hi, I'm Ariel Subia
+<small>aka Phil_dev <img src="images/logo-phildev.png" alt="logo-phildev" height="20"></small>
 
 ## Data Engineer | Cloud Administrator | Certified Professional 
 
