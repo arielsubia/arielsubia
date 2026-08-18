@@ -1,6 +1,6 @@
-# Hi, I'm Ariel Subia 👋
+# Hi, I'm Ariel Subia ### aka Phil_dev 🐱
 
-## Data Engineer | Certified Professional
+## Data Engineer | Cloud Administrator | Certified Professional 
 
 ### About Me
 Results-driven Data Engineer with expertise in building scalable data pipelines and analytics infrastructure. Passionate about designing efficient data solutions that drive business intelligence.
